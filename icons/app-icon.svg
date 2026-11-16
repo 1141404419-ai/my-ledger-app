@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">我的账本应用图标</title>
+  <desc id="desc">深绿色背景上的浅色账本和加号</desc>
+  <rect width="512" height="512" rx="112" fill="#0f513b"/>
+  <circle cx="436" cy="74" r="126" fill="#176b4d" opacity=".55"/>
+  <path d="M132 116h220c30 0 54 24 54 54v226c0 17-14 30-30 30H132c-17 0-30-13-30-30V146c0-17 13-30 30-30Z" fill="#fffefb"/>
+  <path d="M132 116h48v310h-48c-17 0-30-13-30-30V146c0-17 13-30 30-30Z" fill="#dcece2"/>
+  <rect x="217" y="182" width="132" height="20" rx="10" fill="#176b4d"/>
+  <rect x="217" y="232" width="98" height="16" rx="8" fill="#9cb9aa"/>
+  <rect x="217" y="278" width="112" height="16" rx="8" fill="#9cb9aa"/>
+  <circle cx="330" cy="360" r="56" fill="#176b4d"/>
+  <path d="M330 330v60M300 360h60" fill="none" stroke="#fffefb" stroke-linecap="round" stroke-width="14"/>
+</svg>
