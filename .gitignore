@@ -1,0 +1,12 @@
+# Local-only source and publishing helpers
+*.docx
+*.zip
+*.cmd
+GitHub令牌.txt
+.github_token.txt
+
+# Temporary review, QA and local tooling
+.review-docx/
+qa-*.png
+.tools/
+.ledger-server*.log
